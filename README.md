@@ -241,12 +241,6 @@ If you liked this repository, feel free to leave a star ⭐ to help promote !
 [![DiscordBanner](https://invidget.switchblade.xyz/ns8CTk9J3e)](https://discord.gg/ns8CTk9J3e)<br />
 [Support Server](https://discord.gg/ns8CTk9J3e) - lavamusic's Support Server Invite
 
-# Donate
-
-By donating, you will help me to maintain this Project!
-
-- [PayPal](https://www.paypal.me/sdip521)
-
 ## 🤝 Contributing
 
 1. [Fork the repository](https://github.com/brblacky/lavamusic/fork)
